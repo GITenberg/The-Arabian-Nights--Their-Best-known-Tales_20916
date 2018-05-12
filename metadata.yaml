@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8693
     wikipedia: http://en.wikipedia.org/wiki/Nora_Archibald_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20916#The-Arabian-Nights--Their-Best-known-Tales
 gutenberg_bookshelf:
 - Harvard Classics
 - Children's Literature
